@@ -1,9 +1,9 @@
 [package]
-name = "rbase"
-version = "0.2.0"
+name = "readbin"
+version = "0.1.0"
 authors = ["LSH <github@lsh.tech>"]
 edition = "2021"
-description = "Github template to setup the CI and cargo publish"
+description = "A library to interact with binary"
 license = "GPL-3.0"
 
 
