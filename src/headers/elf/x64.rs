@@ -1,7 +1,7 @@
 use crate::utils::cow_struct;
+use std::borrow::Cow;
 use std::fmt;
 use std::mem::size_of;
-use std::borrow::Cow;
 
 use super::class::Class;
 use super::data::DATA;
