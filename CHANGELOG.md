@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- feat: add basic elf headers [\#2](https://github.com/Lsh0x/readbin/pull/2) ([Lsh0x](https://github.com/Lsh0x))
 - feat: adapt template to readbin [\#1](https://github.com/Lsh0x/readbin/pull/1) ([Lsh0x](https://github.com/Lsh0x))
 
 
