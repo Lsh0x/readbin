@@ -1,6 +1,6 @@
 [package]
 name = "readbin"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["LSH <github@lsh.tech>"]
 edition = "2021"
 description = "A library to interact with binary"
